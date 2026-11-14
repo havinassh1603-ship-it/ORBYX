@@ -72,5 +72,6 @@ NASA scientific resources and educational references informed the engineering an
 🏆 Competition
 
 Developed for the NASA Space Apps Challenge 2026.
+
 Project: ORBYX
 Category: Space Mission Design Game
