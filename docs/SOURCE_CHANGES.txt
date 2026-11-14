@@ -1,0 +1,40 @@
+ORBYX 1.1.0 compared with the supplied 1.0.0 ZIP
+
+ADDED    BUILD_INFO.json
+MODIFIED README.md
+MODIFIED TODO.md
+MODIFIED docs/CHANGELOG.md
+MODIFIED docs/ENGINEERING.md
+ADDED    docs/NASA_RESOURCE_MAP.md
+MODIFIED docs/QA.md
+ADDED    docs/UPGRADE_STATUS.md
+MODIFIED package.json
+MODIFIED src/game/CinematicScene.ts
+MODIFIED src/game/ExpeditionCinematicScene.ts
+MODIFIED src/game/LunarCinematicScene.ts
+MODIFIED src/missions/registry.ts
+MODIFIED src/net/room.ts
+MODIFIED src/persist/profile.ts
+ADDED    src/sim/engineering.ts
+MODIFIED src/sim/missions/earthwatch.ts
+MODIFIED src/sim/missions/evac.ts
+MODIFIED src/sim/missions/lunar.ts
+ADDED    src/sim/missions/survey.ts
+MODIFIED src/sim/models/cislunar.ts
+ADDED    src/sim/models/operations.ts
+MODIFIED src/sim/types.ts
+MODIFIED src/state/expedition.ts
+MODIFIED src/state/session.ts
+MODIFIED src/ui/app.ts
+ADDED    src/ui/engineering.ts
+MODIFIED src/ui/expedition.ts
+MODIFIED src/ui/hud.ts
+MODIFIED src/ui/screens/debrief.ts
+MODIFIED src/ui/screens/menus.ts
+MODIFIED src/ui/styles.css
+ADDED    tests/engineering.test.ts
+MODIFIED tests/expedition.test.ts
+MODIFIED tests/lunar-sweep.test.ts
+MODIFIED tests/sweep.test.ts
+
+The dist/ directory was rebuilt from the updated source.
