@@ -1,11 +1,5 @@
 # ORBYX
 
-🚀 ORBYX – Space Mission Design Game
-
-NASA Space Apps Challenge 2026
-
-Design. Explore. Survive. Return.
-
 🌌 About ORBYX
 
 ORBYX is an interactive space mission design and exploration game developed for the NASA Space Apps Challenge 2026.
@@ -13,6 +7,7 @@ ORBYX is an interactive space mission design and exploration game developed for 
 The game introduces players to the challenges of real-world space mission planning through interactive engineering decisions, resource management, teamwork and mission simulations.
 
 Players take on the responsibilities of astronauts and mission specialists, making decisions that influence the success or failure of their missions.
+
 
 🎮 Four Mission Levels
 
@@ -32,6 +27,7 @@ Respond to an emergency aboard a damaged spacecraft. Manage survival systems, av
 
 Explore planetary environments, manage shared resources, collect scientific evidence and make a final team decision.
 
+
 🛰️ Engineering Concepts
 
 ORBYX introduces players to:
@@ -45,13 +41,16 @@ ORBYX introduces players to:
 - Mission lifetime and resource allocation
 - Risk assessment and engineering trade-offs
 
+
 👨‍🚀 Teamwork
 
 The game is designed around cooperative space exploration, with support for up to four astronauts working together.
 
+
 🛠️ Technologies
 
 Refer to the project source and configuration files for the complete technology stack and dependencies.
+
 
 💻 How to Run ORBYX
 
@@ -64,9 +63,11 @@ Refer to the project source and configuration files for the complete technology 
 
 See the project documentation for development setup and troubleshooting.
 
+
 📚 NASA Resources and Acknowledgements
 
 NASA scientific resources and educational references informed the engineering and mission concepts used in ORBYX. Specific datasets, publications, imagery and other third-party assets are credited in the project documentation.
+
 
 🏆 Competition
 
