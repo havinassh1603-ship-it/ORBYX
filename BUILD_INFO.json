@@ -1,0 +1,18 @@
+{
+  "version": "1.1.0",
+  "engineeringModel": "1.1.0",
+  "networkProtocol": 4,
+  "sourceBaselineZipSha256": "4935c56663c965eb8ca1cb8ce564fbf69caa67460c308139d04e5d98b517db99",
+  "tests": {
+    "passed": 96,
+    "files": 10,
+    "earthwatchDesigns": 243,
+    "lunarDesigns": 2187
+  },
+  "entryPoint": "START_ORBYX.bat",
+  "playDependencies": "Python 3.8+ and a desktop browser; prebuilt dist included",
+  "limits": [
+    "Live cross-device WebRTC still needs acceptance testing",
+    "Windows not directly tested in this Linux environment"
+  ]
+}
